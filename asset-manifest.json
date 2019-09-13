@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ae4cfe19.chunk.css",
-    "main.js": "/static/js/main.64cd1170.chunk.js",
-    "main.js.map": "/static/js/main.64cd1170.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.8e17bb80.js",
-    "runtime~main.js.map": "/static/js/runtime~main.8e17bb80.js.map",
-    "static/js/2.6600c6d9.chunk.js": "/static/js/2.6600c6d9.chunk.js",
-    "static/js/2.6600c6d9.chunk.js.map": "/static/js/2.6600c6d9.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b0bbc082fdc6da95570c061bdfa4a645.js": "/precache-manifest.b0bbc082fdc6da95570c061bdfa4a645.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.ae4cfe19.chunk.css.map": "/static/css/main.ae4cfe19.chunk.css.map"
+    "main.css": "/dorim1209/movie_app/static/css/main.ae4cfe19.chunk.css",
+    "main.js": "/dorim1209/movie_app/static/js/main.64cd1170.chunk.js",
+    "main.js.map": "/dorim1209/movie_app/static/js/main.64cd1170.chunk.js.map",
+    "runtime~main.js": "/dorim1209/movie_app/static/js/runtime~main.08c7a496.js",
+    "runtime~main.js.map": "/dorim1209/movie_app/static/js/runtime~main.08c7a496.js.map",
+    "static/js/2.6600c6d9.chunk.js": "/dorim1209/movie_app/static/js/2.6600c6d9.chunk.js",
+    "static/js/2.6600c6d9.chunk.js.map": "/dorim1209/movie_app/static/js/2.6600c6d9.chunk.js.map",
+    "index.html": "/dorim1209/movie_app/index.html",
+    "precache-manifest.2159ca985f264c7d05b592ef1764c5f1.js": "/dorim1209/movie_app/precache-manifest.2159ca985f264c7d05b592ef1764c5f1.js",
+    "service-worker.js": "/dorim1209/movie_app/service-worker.js",
+    "static/css/main.ae4cfe19.chunk.css.map": "/dorim1209/movie_app/static/css/main.ae4cfe19.chunk.css.map"
   }
 }
